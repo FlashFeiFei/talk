@@ -4,6 +4,13 @@
 
 # 遇到多线程变量共享问题
 
+参考如下连接解决的
+
+- https://www.liaoxuefeng.com/wiki/1252599548343744/1306580767211554   多线程共享变量时jvm是怎么工作的
+- https://www.ibm.com/developerworks/cn/java/j-jtp06197.html  使用volatile的正确姿势
+
+
+
 代码在Room.java
 这个属性的定义
 ```
